@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janqueraltt
 - 👀 I’m interested in informatics
 - 🌱 I’m currently learning rb
-- 💞️ No colabs
+- 💞️ No colabs (soon)
 - 📫 How to reach me secretjannq@gmail.com
 
 <!---
