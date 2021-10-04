@@ -1,1 +1,1 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://raw.githubusercontent.com/chroline/well_app/main/thumbnail.png)
