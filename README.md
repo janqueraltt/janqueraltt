@@ -1,17 +1,2 @@
-Hi! I'm Wyatt
-Hi! I'm Wyatt! I'm a nerd/professional StackOverflow'er/pizza enthusiast.
-
-⚒️ I'm currently working on...
-
-🔡 Letters With Strangers | A discord bot that is like Scrabble + Letter Jam (currently private)
-🐝 Swarm | Automation for Minecraft™
-📌 Pushing all of my old projects to GitHub so my profile looks better.
-⬇️ Updating this file!
-🌱 I'm currently learning:
-
-🎵 C#
-🧠 Tensorflow
-➡️ GoLang
-And now, a random dev joke:
-
-Sorry 😦, no jokes for you!
+## Support
+![Aquí la descripción de la imagen por si no carga](https://camo.githubusercontent.com/031c3fee0e99eacdcb97989ec4b069684506fc7b3bcaf88870989c87623de59c/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f707572706c655f696d672e706e67)
